@@ -20,5 +20,10 @@ Run the broker with the following command:
 docker-compose up -d
 ```
 
+You can reach the UI via
+
+```
+http://localhost:9292/
+```
 
 
